@@ -4,6 +4,10 @@ Breast Cancer Classification with Stacking Ensemble and Streamlit UI
 This project applies machine learning to classify breast cancer cases (benign vs malignant)
 using a stacking ensemble method and provides an interactive web app via Streamlit.
 
+### 🔗 Try it here: https://breast-cancer-classification-nuhshh.streamlit.app
+### 📦 Source: https://github.com/NuhShh/breast-cancer-classification
+
+
 📊 Dataset
 ----------
 - Source: https://www.kaggle.com/datasets/erdemtaha/cancer-data
