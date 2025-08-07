@@ -38,11 +38,11 @@ using a stacking ensemble method and provides an interactive web app via Streaml
 
 📁 Project Structure
 --------------------
-Breast_Cancer_Classification.ipynb   # Notebook for preprocessing, training, evaluation
-app.py                               # Streamlit web app
-Cancer_Data.csv                      # Main dataset
-stacking_model.pkl                   # Saved trained model
-mean.npy, std.npy                    # Normalization stats for deployment
+- Breast_Cancer_Classification.ipynb   : Notebook for preprocessing, training, evaluation
+- app.py                               : Streamlit web app
+- Cancer_Data.csv                      : Main dataset
+- stacking_model.pkl                   : Saved trained model
+- mean.npy, std.npy                    : Normalization stats for deployment
 
 ⚙️ Installation & Usage
 ------------------------
@@ -65,5 +65,5 @@ mean.npy, std.npy                    # Normalization stats for deployment
 
 📌 Note
 -------
-This project is intended for educational and demo purposes. Model performance may vary
+This project is intended for educational purposes. Model performance may vary
 depending on feature engineering and parameter tuning.
